@@ -1,10 +1,3 @@
-## Olá Meu Nome é Gabriel
-
-😜  Hoje Trabalho Com JavaScript
-
-😎 Estudando Mais Sobre  .lua/Python
-
-🙃 Programdor Proficional!!
 
 
 <div>
