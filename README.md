@@ -1,9 +1,9 @@
 
-
 <div>
   <a href="https://github.com/ItaChiGabriel">
 <img height="180cm" alt="gb-yoda" src="https://cdn.discordapp.com/avatars/704425386007724034/a_25bebf1498c98960065a35ce280d0f1e.gif?">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaChiGabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaChiGabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 	<img align="center" alt="gb-lua" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
