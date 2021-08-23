@@ -1,7 +1,6 @@
 
 <div>
   <a href="https://github.com/ItaChiGabriel">
-<img height="180cm" alt="gb-yoda" src="https://cdn.discordapp.com/avatars/704425386007724034/a_25bebf1498c98960065a35ce280d0f1e.gif?">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaChiGabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaChiGabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -23,7 +22,5 @@
   <a href="https://www.instagram.com/gabrielgomesbrg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gabrielgitachi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Vy2A5RYKsY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 	
 	
