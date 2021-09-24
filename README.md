@@ -9,5 +9,6 @@
 	<h2>About me 🦾</h2>
 	<p>Hi guys, my name is Gabriel Gomes, I'm a Programmer, I'm 16 years old, I love studying and programming, I live in Rio de Janeiro and I'm very happy!</p>
 	<a href="https://www.instagram.com/gabrielgomesbrg/" target="_blank"><img height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/></a>
+	<a href="https://discord.gg/Vy2A5RYKsY" target="_blank"><img  height="50px" align="center" src="https://img.icons8.com/ios/500/discord-logo--v1.png"/></a>
 </div>
 	
