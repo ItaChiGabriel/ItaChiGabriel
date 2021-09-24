@@ -1,7 +1,7 @@
 <div>
 	<h1>Hello Friends ✨</h1>
 	
-<img height="170px" src="https://activity-graph.herokuapp.com/graph?username=ItaChiGabriel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<img height="140px" src="https://activity-graph.herokuapp.com/graph?username=ItaChiGabriel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 	<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaChiGabriel&layout=compact&langs_count=7&theme=dark"/>
 	</div>
 	
