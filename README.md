@@ -11,7 +11,7 @@ Hey, all right? My name is [Gabriel Gomes](https://www.instagram.com/gabrielgome
 
 <img align="right" alt="GIF" src="https://github.com/ItaChiGabriel/ItaChiGabriel/blob/master/code.gif?raw=true" width="500" height="320"/>
 
-- 🛍 any freelance work? do reach, [email](mailto:bielgpereira01@gmail.com) ✔
+- 🛍 any freelance work? do reach, [email](mailto:bielgpereira01@gmail.com) ou [discord](https://discord.gg/h9x3tcFTJy)✔
 
 **languages and tools:**  
 
