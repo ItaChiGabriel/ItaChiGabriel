@@ -22,6 +22,10 @@ Hey, all right? My name is [Gabriel Gomes](https://www.instagram.com/gabrielgome
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996810277444145192/1012812_code_development_logo_php_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996810570919596072/4375066_logo_sass_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996817040457347092/317755_badge_html_html5_achievement_award_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996817238151659691/unknown.png"></code>
 
 ✨ **My github stats:**
 
