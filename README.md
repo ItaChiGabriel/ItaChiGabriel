@@ -29,4 +29,4 @@ Hey, all right? My name is [Gabriel Gomes](https://www.instagram.com/gabrielgome
 
 ✨ **My github stats:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItaChiGabriel&show_icons=true&theme=radical" alt="ItaChiGabriel" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItaChiGabriel&theme=dark" alt="ItaChiGabriel" /></p>
