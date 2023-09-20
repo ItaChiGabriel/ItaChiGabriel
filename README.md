@@ -1,7 +1,6 @@
 ### Hey, how's it going?
 
 <a href="https://www.instagram.com/gabrielgomesbrg/"><img width="22px" align="left" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Gb'Gomes Instagram" ></a>
-<a href="https://discord.gg/h9x3tcFTJy"><img width="22px"  align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Gb'Gomes Discord" ></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ItaChiGabriel.ItaChiGabriel)
 
